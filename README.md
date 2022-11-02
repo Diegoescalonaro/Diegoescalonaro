@@ -1,8 +1,8 @@
 👋 Hi, I’m @Diegoescalonaro
 
-📫 You can reach me on [Twitter](https://twitter.com/Diegoescalonaro) or [Linkedin](https://www.linkedin.com/in/diegoescalona/).
+📫 You can reach me on [Twitter](https://twitter.com/Diegoescalonaro) or [Linkedin](https://www.linkedin.com/in/diegoescalona/)
 
-📢 Let's talk!
+🤓 Let's talk!
 
 <!---
 Diegoescalonaro/Diegoescalonaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
