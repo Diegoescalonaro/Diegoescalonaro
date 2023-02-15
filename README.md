@@ -1,4 +1,4 @@
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&pause=1000&color=5F5F5F&width=435&lines=Hello%2C+this+is+%40Diegoescalonaro" alt="Typing SVG" /></a> 
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&pause=1000&color=5F5F5F&width=435&lines=Hello%2C+this+is+%40Diegoescalonaro" alt="Typing SVG" /></a> 
 -----
 
 
