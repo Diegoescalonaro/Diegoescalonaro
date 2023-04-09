@@ -1,4 +1,4 @@
-<h3>Hey! Welcome to my coding space  👋</h3>
+<h3>Hey! Welcome to my coding space 👋</h3>
 
 🧑‍💻 I’m Diego, a Senior Blockchain Engineer working at Telefónica Tech with experience in the design and development of web3 solutions and applications for a wide range of sectors
 
