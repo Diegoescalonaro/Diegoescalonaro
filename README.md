@@ -1,8 +1,8 @@
 <h3>Hey! Welcome to my coding space 👋</h3>
 
-🧑‍💻 I’m Diego, a Senior Blockchain Engineer working at Telefónica Tech with experience in the design and development of web3 solutions and applications for a wide range of sectors
+🧑‍💻 I’m Diego, a Senior Blockchain Engineer at Telefónica Tech with experience in designing and developing of web3 solutions and applications for a wide range of sectors
 
-👨‍🏫 I'm also a teacher in several postgraduate programmes and online courses related to Blockchain technology, web3 ecosystem, dapps, smart contracts, nfts, and many other stuffs
+👨‍🏫 I'm also a teacher in several postgraduate programmes and online courses related to Blockchain technology, web3 ecosystem, dapps, smart contracts, nfts, and many other stuff
 
 🐵 Here you'll find some of the public projects that I'm involved in and you can work with
 
