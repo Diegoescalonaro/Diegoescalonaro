@@ -10,15 +10,11 @@ I previously worked at **Telefónica and Telefónica Tech**, helping organizatio
 
 ---
 
-#### 🐵 **What You'll Find Here**
-
-Public projects, experiments, prototypes, and ideas I'm building and working on.
+🐵 **What You'll Find Here**: Public projects, experiments, prototypes, and ideas I'm building and working on.
 
 > Feel free to `explore` → `fork` → `build` → `ship`
 
-#### 🙈 **What You Won't Find Here**
-
-Not everything can be public. Some projects are private, protected by NDAs, or simply waiting for their moment.
+🙈 **What You Won't Find Here**: Not everything can be public. Some projects are private, protected, or simply waiting for their moment.
 
 > Curious about what happens behind the scenes? `Just ask me.`
 
