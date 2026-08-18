@@ -2,11 +2,11 @@
 
 🧑‍💻 I’m Diego, a Lead Solution Engineer at **The Hashgraph Association**.
 
-I’ve spent my career turning **innovative ideas into real-world products** — solving problems, experimenting with new technologies, and figuring out where **decentralization and trust** can actually make a difference, with a particular focus on digital identity and DLT technologies.
+I’ve spent my career turning **innovative ideas into real-world solutions** — solving problems, experimenting, and exploring where **decentralization and trust** can create meaningful value, with a particular focus on digital identity and DLTs.
 
-I previously worked at **Telefónica and Telefónica Tech**, helping organizations of all sizes explore and implement blockchain-based solutions, from enterprise projects to disruptive internal experiments.
+Previously, I worked at **Telefónica** and **Telefónica Tech**, designing and delivering blockchain solutions at scale.
 
-📚 I’m also a **teacher and mentor**, teaching Blockchain, Web3, dApps, smart contracts, NFTs, SSI, and other emerging technologies through postgraduate programmes and online courses.
+📚 I’m also a **teacher and mentor**, sharing my experience in DLTs, Web3, dApps, Smart Contracts, NFTs, SSI, and other emerging technologies through postgraduate programmes and online courses.
 
 ---
 
