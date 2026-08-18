@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=000000&repeat=false&width=500&lines=Hey!+Welcome+to+my+coding+space.)](https://git.io/typing-svg)
 
-🧑‍💻 I’m Diego, a Lead Blockchain Engineer at **The Hashgraph Association**, designing and building Web3 solutions and applications across industries, with a particular focus on digital identity and decentralized technologies.
+🧑‍💻 I’m Diego, a Lead Solution Engineer at **The Hashgraph Association**.
 
-I’ve spent my career turning **innovative ideas into real-world products** — solving problems, experimenting with new technologies, and figuring out where **decentralization and trust** can actually make a difference.
+I’ve spent my career turning **innovative ideas into real-world products** — solving problems, experimenting with new technologies, and figuring out where **decentralization and trust** can actually make a difference, with a particular focus on digital identity and DLT technologies.
 
 I previously worked at **Telefónica and Telefónica Tech**, helping organizations of all sizes explore and implement blockchain-based solutions, from enterprise projects to disruptive internal experiments.
 
