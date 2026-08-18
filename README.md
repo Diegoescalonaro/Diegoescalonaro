@@ -1,22 +1,34 @@
-<h3>Hey! Welcome to my coding space 👋</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=000000&repeat=false&width=500&lines=Hey!+Welcome+to+my+coding+space.)](https://git.io/typing-svg)
 
-🧑‍💻 I’m Diego, a Lead Blockchain Engineer at The Hashgraph Association with experience in designing and developing web3 solutions and applications for a wide range of sectors
+🧑‍💻 I’m Diego, a Lead Blockchain Engineer at **The Hashgraph Association**, designing and building Web3 solutions and applications across industries, with a particular focus on digital identity and decentralized technologies.
 
-👨‍💼 Previously I worked at Telefonica and Telefónica Tech enabling blockchain-based solutions for large, medium and small companies, as well as disruptive internal projects
+I’ve spent my career turning **innovative ideas into real-world products** — solving problems, experimenting with new technologies, and figuring out where **decentralization and trust** can actually make a difference.
 
-👨‍🏫 I'm also a teacher in several postgraduate programmes and online courses related to Blockchain technology, web3 ecosystem, dapps, smart contracts, nfts, and many other stuff
+I previously worked at **Telefónica and Telefónica Tech**, helping organizations of all sizes explore and implement blockchain-based solutions, from enterprise projects to disruptive internal experiments.
 
-🐵 Here you'll find some of the public projects that I'm involved in and you can work with
+📚 I’m also a **teacher and mentor**, teaching Blockchain, Web3, dApps, smart contracts, NFTs, SSI, and other emerging technologies through postgraduate programmes and online courses.
 
-🙈 There will be others you won't be able to see because they're private, but ask me if you're curious about them
+---
+
+#### 🐵 **What You'll Find Here**
+
+Public projects, experiments, prototypes, and ideas I'm building and working on.
+
+> Feel free to `explore` → `fork` → `build` → `ship`
+
+#### 🙈 **What You Won't Find Here**
+
+Not everything can be public. Some projects are private, protected by NDAs, or simply waiting for their moment.
+
+> Curious about what happens behind the scenes? `Just ask me.`
+
+---
 
 🎙️ You can reach me on [Twitter](https://twitter.com/Diegoescalonaro), [LinkedIn](https://www.linkedin.com/in/diegoescalona/), [Farcaster](https://warpcast.com/diegoescalonaro), [Lens Protocol](https://hey.xyz/u/diegoescalonaro), and [ENS](https://etherscan.io/name-lookup-search?id=diegoescalonaro.eth)
 
-📬 Want to send me an email? [Click here](mailto:diegoescalonarodriguez@gmail.com?subject=I%20have%20something%20to%20tell%20you&body=Hey%20Diego%0D%0A%0D%0AI%20have%20reach%20out%20your%20Github%20profile%20and%20i%20have%20something%20to%20tell%20you%0D%0A%0D%0ACheers)
+📬 Have an idea, a project, just want to chat? [Drop me a line.](mailto:diegoescalonarodriguez@gmail.com?subject=I%20have%20something%20to%20tell%20you&body=Hey%20Diego%0D%0A%0D%0AI%20have%20reach%20out%20your%20Github%20profile%20and%20i%20have%20something%20to%20tell%20you%0D%0A%0D%0ACheers)
 
-🤓 Let's talk!
-
-
+🤓 Let's build!
 
 -----
 
@@ -25,12 +37,7 @@
 
 
 
-
-
 <!---
 Diegoescalonaro/Diegoescalonaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
