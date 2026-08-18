@@ -14,9 +14,9 @@ I previously worked at **Telefónica and Telefónica Tech**, helping organizatio
 
 > Feel free to `explore` → `fork` → `build` → `ship`
 
-🙈 **What You Won't Find Here**: Not everything can be public. Some projects are private, protected, or simply waiting for their moment.
+🙈 **What You Won't Find Here**: Some projects are private by design, protected, or simply waiting for their moment.
 
-> Curious about what happens behind the scenes? `Just ask me.`
+> Curious? `Just ask me.`
 
 ---
 
