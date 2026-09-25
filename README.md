@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=000000&repeat=false&width=500&lines=Hey!+Welcome+to+my+coding+space.)](https://git.io/typing-svg)
 
-🧑‍💻 I’m Diego, a Lead Solution Engineer at **The Hashgraph Association**.
+I’m Diego, a Lead Solution Engineer at **The Hashgraph Association**.
 
 I’ve spent my career turning **innovative ideas into real-world solutions** — solving problems, experimenting, and exploring where **decentralization and trust** can create meaningful value, with a particular focus on digital identity and DLTs.
 
