@@ -6,15 +6,15 @@ I’ve spent my career turning **innovative ideas into real-world solutions** �
 
 Previously, I worked at **Telefónica** and **Telefónica Tech**, designing and delivering blockchain solutions at scale.
 
-📚 I’m also a **teacher and mentor**, sharing my experience in DLTs, Web3, dApps, Smart Contracts, NFTs, SSI, and other emerging technologies through postgraduate programmes and online courses.
+I’m also a **teacher and mentor**, sharing my experience in DLTs, Web3, dApps, Smart Contracts, NFTs, SSI, and other emerging technologies through postgraduate programmes and online courses.
 
 ---
 
-🐵 **What You'll Find Here**: Public projects, experiments, prototypes, and ideas I'm building and working on.
+**What You'll Find Here**: Public projects, experiments, prototypes, and ideas I'm building and working on.
 
 > Feel free to `explore` → `fork` → `build` → `ship`
 
-🙈 **What You Won't Find Here**: Some projects are private by design, protected, or simply waiting for their moment.
+**What You Won't Find Here**: Some projects are private by design, protected, or simply waiting for their moment.
 
 > Curious? `Just ask me.`
 
@@ -24,13 +24,15 @@ Previously, I worked at **Telefónica** and **Telefónica Tech**, designing and 
 
 📬 Have an idea, a project, just want to chat? [Drop me a line.](mailto:diegoescalonarodriguez@gmail.com?subject=I%20have%20something%20to%20tell%20you&body=Hey%20Diego%0D%0A%0D%0AI%20have%20reach%20out%20your%20Github%20profile%20and%20i%20have%20something%20to%20tell%20you%0D%0A%0D%0ACheers)
 
-🤓 Let's build!
+💡 Let's build!
 
 -----
 
 [![Github](https://img.shields.io/github/followers/diegoescalonaro?label=Follow&style=social)](https://github.com/diegoescalonaro)
 ![](https://visitor-badge.laobi.icu/badge?page_id=diegoescalonaro.diegoescalonaro)
-
+<a href="https://diegoescalonaro.com" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/diegoescalonaro-website?label=website">
+</a>
 
 
 <!---
